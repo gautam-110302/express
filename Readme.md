@@ -4,6 +4,8 @@
 
 **This project has a [Code of Conduct][].**
 
+# Gautam Sarda
+
 ## Table of contents
 
 * [Installation](#Installation)
